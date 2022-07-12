@@ -1,0 +1,51 @@
+.tete{
+    background-color: grey;
+     
+     
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    height: auto;
+}
+.main{
+    background-color: lightgray;
+    padding: 10px;
+    font-family:"sans cherif",Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     
+}
+.pied{
+    background-color:grey ;
+      
+}
+.header-title{
+    margin-top: 0;
+}
+.menu{
+    padding-bottom:50px ;
+    text-align: center;
+    
+     
+}
+.menu a{
+    padding: 10px;
+     color: white;
+     text-decoration: none;
+}
+.menu a:hover{
+     
+     text-decoration: underline;
+     background-color: blueviolet;
+}
+  body{
+    letter-spacing: 1.4px;
+  }
+  .space{
+    text-align: justify;
+    line-height: 20px;
+    text-indent: 50px;
+
+  }
+  .space :first-of-type::first-letter{
+    font-size: 500px;
+    font-weight: bold;
+  }
